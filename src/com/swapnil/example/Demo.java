@@ -15,6 +15,7 @@ public class Demo {
 		
 		list.add("Swapnil");
 		list.add("Vaibhav");
+		list.add("Pavan");
 		
 	}
 
